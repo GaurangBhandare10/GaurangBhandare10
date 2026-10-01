@@ -19,10 +19,10 @@
 ### 🚀 About Me
 
 - 🎓 Pursuing my **MS in Information Management** (Data Science & Analytics) at the **University of Illinois Urbana-Champaign**
-- 💼 Former **Finance Data Engineering Intern @ Transamerica** — built Power BI reports & migrated MDX/SSAS cube logic to SQL for ALM Hedging Reporting
-- 🏛️ **Data Steward @ Education Justice Project** — building analytics pipelines and Tableau dashboards that support incarcerated learners
+- 💼 Currently a **Finance Data Engineering Intern @ Transamerica** — built Power BI reports & migrated MDX/SSAS cube logic to SQL for ALM Hedging Reporting
+- 🏛️ Also wprking as a **Data Steward @ Education Justice Project** — building analytics pipelines and Tableau dashboards that support incarcerated learners
 - 🧠 I love working across the full data stack: ingestion → transformation → visualization
-- 🌍 Originally from India, now based in Illinois 🌽
+- 🌍 Based in Illinois 🌽
 
 ---
 
@@ -86,9 +86,9 @@
 
 | Project | What It Does |
 |--------|--------------|
-| 🌊 [AWS Streaming Analytics Pipeline](https://github.com/GaurangBhandare10) | Real-time data streaming pipeline built on AWS — Kinesis, Lambda & S3 |
-| ❄️ [Snowflake + dbt Analytics](https://github.com/GaurangBhandare10) | Modern analytics engineering with Snowflake & dbt — modular, tested, documented |
-| ☁️ [Azure Databricks Project](https://github.com/GaurangBhandare10/azure_databricks_project) | Modern data platform with Delta Lake & medallion architecture |
+| 🌊 [AWS Streaming Analytics Pipeline](https://github.com/GaurangBhandare10/aws-streaming-analytics-pipeline) | Real-time data streaming pipeline built on AWS — Kinesis, Lambda & S3 |
+| ❄️ [Snowflake + dbt Analytics](https://github.com/GaurangBhandare10/airbnb_snowflake_dbt) | Modern analytics engineering with Snowflake & dbt — modular, tested, documented |
+| ☁️ [Azure Databricks Project]([https://github.com/GaurangBhandare10/azure_databricks_project](https://github.com/GaurangBhandare10/azure_databricks_project)) | Modern data platform with Delta Lake & medallion architecture |
 | 🏋️ [LifeStyle Data Analytics](https://github.com/GaurangBhandare10/LifeStyle_Data_Analytics) | DWBI project analyzing how fitness, nutrition & behavior shape health outcomes |
 | 🛒 [Blinkit Sales Analysis](https://github.com/GaurangBhandare10/blinkit_sales_analysis) | Deep-dive sales analysis using Python, SQL & Power BI on Kaggle data |
 | 💼 [Data Job Roles Analysis](https://github.com/GaurangBhandare10/data_job_roles_analysis) | Multi-region analysis of data job roles & market trends |
